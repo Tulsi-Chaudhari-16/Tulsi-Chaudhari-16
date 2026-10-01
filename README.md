@@ -19,18 +19,7 @@
 <tr>
 <td width="62%" valign="top">
 
-```javascript
-const tulsi = {
-  education:  "B.Tech CSE @ VIT Bhopal University",
-  building:   ["Full stack web apps", "Mobile apps"],
-  stack:      ["React", "React Native", "Node.js", "Express"],
-  learning:   ["AWS", "Cloud", "Software Engineering"],
-  exploring:  ["AI/ML", "Deep Learning", "Computer Vision"],
-  practising: "Competitive programming in C++ (Codeforces)",
-  askMeAbout: ["Python", "Java", "Android", "Databases"],
-  motto:      "Turning ideas into practical software"
-};
-```
+<img src="assets/terminal.svg" alt="About Tulsi" width="100%"/>
 
 </td>
 <td width="38%" valign="top" align="center">
