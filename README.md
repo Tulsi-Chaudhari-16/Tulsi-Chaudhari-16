@@ -129,10 +129,7 @@ I'm a **B.Tech CSE** student at **VIT Bhopal University** who enjoys turning ide
 
 <img src="https://streak-stats.demolab.com?user=Tulsi-Chaudhari-16&theme=tokyonight&hide_border=true"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tulsi-Chaudhari-16/Tulsi-Chaudhari-16/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Tulsi-Chaudhari-16/Tulsi-Chaudhari-16/output/github-contribution-grid-snake.svg"/>
-</picture>
+<img src="game.gif" alt="GitHub contributions space shooter" width="100%"/>
 
 </div>
 
