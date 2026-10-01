@@ -19,15 +19,18 @@
 <tr>
 <td width="62%" valign="top">
 
-I'm a **B.Tech CSE** student at **VIT Bhopal University** who enjoys turning ideas into practical software.
-
-| | |
-|---|---|
-| **Building** | Full stack web and mobile apps with React, React Native, Node.js and Express |
-| **Learning** | AWS, cloud technologies and software engineering |
-| **Exploring** | AI/ML and computer vision through deep learning and OpenCV |
-| **Practising** | Competitive programming in C++ on Codeforces |
-| **Ask me about** | Python, Java, Android development and databases |
+```javascript
+const tulsi = {
+  education:  "B.Tech CSE @ VIT Bhopal University",
+  building:   ["Full stack web apps", "Mobile apps"],
+  stack:      ["React", "React Native", "Node.js", "Express"],
+  learning:   ["AWS", "Cloud", "Software Engineering"],
+  exploring:  ["AI/ML", "Deep Learning", "Computer Vision"],
+  practising: "Competitive programming in C++ (Codeforces)",
+  askMeAbout: ["Python", "Java", "Android", "Databases"],
+  motto:      "Turning ideas into practical software"
+};
+```
 
 </td>
 <td width="38%" valign="top" align="center">
